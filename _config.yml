@@ -3,7 +3,7 @@ title: The Agent of Disruption
 email: hllbck7@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   DISCLAIMER: I do not own any stock, so any opinions expressed here are not attempts at market manipulation.
-baseurl: /the-agent-of-disruption # the subpath of your site, e.g. /blog/
+baseurl: /TheAgentOfDisruption # the subpath of your site, e.g. /blog/
 url: "http://http://lbarberiscanoni.github.io/TheAgentOfDisruption" # the base hostname & protocol for your site
 twitter_username: LolloYolo
 github_username:  lbarberiscanoni
