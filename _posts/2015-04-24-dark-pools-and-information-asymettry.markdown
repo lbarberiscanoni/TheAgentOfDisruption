@@ -4,12 +4,16 @@ title: "Dark Pools and Information Asymmetry"
 date: 2015-04-24 19:42:40
 ---
 
-During his interview as one of Forbes' Top 30 under 30 financiers,
-<video src="/_assets/Vlad-Kandros-on-Dark-Pools.mp4">
-</video>
-<video src="../_assets/Vlad-Kandros-on-Dark-Pools.mp4">
-</video>
-<video>
-	<source src="/_assets/Vlad-Kandros-on-Dark-Pools.mp4">
-	</source>
-</video>
+During his 2012 interview as one of Forbes' Top 30 under 30 financiers, Vlad Kandros, UBS' Director of Market Structure, was asked "you were working with they call "dark pools". It sounds a little sinister, could explain us more what that is?". I distinctly remember that moment not only because it was such a perfect example of blatantly disregarding the question for he intentionally failed to answer it, but specifically because it was the first time I had heard about dark pools.
+
+[Investopedia](http://www.investopedia.com/articles/markets/050614/introduction-dark-pools.asp) explains that dark pools are "private exchanges or forums for trading securities; unlike stock exchanges, dark pools are not accessible by the investing public." They sound super shady, but they aren't. The provide a service just like any other financial intermediary: a place for institutional investors to liquidate or acquire voluminious positions. For example, were Blackrock to liquidate even a fraction of their large holdings of any of the many companies their hold in the portfolio, that particular company's equity price would tank as public investors would see such a large volume enter the exchange. A dark pool thus brings acquirers for that position in a discrete manner, as to not negatively impact the particular price of the stock. Yes, obviously this is done to protect the financial interest of the institution liquidating the position, but it also has the additional benefit to stabilizing equity prices overall. 
+
+Despite the menancing name and the frequent demonization of this kind of alternative trading institution and exchange, there is nothing inherently wrong with a dark pool. They are just providing a service like any other. Yes, they are part of the system that enables "high frequency trading" (a horribly misuded term for a practice that pisses off a lot of traders) but even then the problem wouldn't really be with the exchange as much as in the trader but that's a different discussion for another day. 
+
+These past few weeks I have been wondering whether dark pools inhibit price discovery and thus make the equity market more inefficient. After all, if the public market is unaware of the true volume of outstanding shares of a particular company, how are investors supposed to accurately price equities? This appears to be a real problem particularly because of the nature of dark pool trading IE the exchange of massive volumes. It reasonably follows that the more shares of a company are traded over the counter, the more inaccurate pricing becomes as regular investors bid to purchase an artifically lower supply of shares of a particular company. For example, if Company A IPOs and puts say 30k shares on the NASDAQ, and 20k are bought by a large instituional investor that then disposes of them in a dark pool, that means that the regular investor now has to compete to purchase at most 10k shares, and a lower supply only increases price if the demand remains constant or increases. Company A's stock price thus increases as regular investors bid higher and higher to acquire as many shares as possible, when really the price would be much less if all 30k shares were available to every investor.
+
+It shouldn't be too bad however, because most dark pools either push their price data to the regular exchanges or they are simply too small to truly have an adverse impact on price discovery. To me, the more problematic aspect appears to be the asymettry produced between the OTC market and the public market. Info such as the identity of a large seller/buyer, the true number of oustanding shares, and of the activity around a particular stock are all critical pieces of information that are integrated in price discovery. Through this asymmetric dynamic between the players in the stock market, nothing healthy can really happen. 
+
+Stock crashes happen largely in part because of information asymettry, where equities are priced inaccurately and inefficiently because not all the information is being integrated into the value judgement by an investor. After all, most mortages behind MBSs and CDOs didn't really "turn" toxic all of a sudden during the financial crisis: they were shitty to begin with, we simply gave me a AAA rating so that we would price them more favourably. I suspect much of this is inadvertently happening in the US stock market as equity prices no longer reflect the entire story. 
+
+I hope I am wrong, and I don't even know if I am right. What I do know is that we should start looking to dark pools in order to truly understand their impact of the US stock market. 
