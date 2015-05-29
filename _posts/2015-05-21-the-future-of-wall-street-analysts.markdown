@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Future of analysts in Wall Street's Tech Revolution"
+title: "The Future of Analysts in Wall Street's Tech Revolution"
 date: 2015-05-21 15:17:10
 ---
 
