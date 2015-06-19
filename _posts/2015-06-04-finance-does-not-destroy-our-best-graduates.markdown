@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Finance Does NOT Destory Our Best Graduates"
+title: "Finance Does NOT Destroy Our Best Graduates"
 date: 2015-06-04 15:37:10
 ---
 
