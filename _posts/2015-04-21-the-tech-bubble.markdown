@@ -2,6 +2,7 @@
 layout: post
 title: "The Tech Bubble 2.0"
 date: 2015-04-21 19:46:45
+crosspost_to_medium: true
 ---
 
 A couple of weeks ago I spoke with the Chief Privacy Officer at Google, and he remarked "I see no better evidence of a bubble than a company like Snapchat being valued 10 billion dollars". I was like "preach it brother". 

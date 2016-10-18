@@ -2,6 +2,7 @@
 layout: post
 title: "Dark Pools and Information Asymmetry"
 date: 2015-04-24 19:42:40
+crosspost_to_medium: true
 ---
 
 During his 2012 interview as one of Forbes' Top 30 under 30 financiers, Vlad Kandros, UBS' Director of Market Structure, was asked "you were working with they call "dark pools". It sounds a little sinister, could explain us more what that is?". I distinctly remember that moment not only because it was such a perfect example of blatantly disregarding the question for he intentionally failed to answer it, but specifically because it was the first time I had heard about dark pools.

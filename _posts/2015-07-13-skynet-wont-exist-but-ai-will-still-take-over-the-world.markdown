@@ -2,6 +2,7 @@
 layout: post
 title: "Why Skynet Won't Exist, but AI Will Still Take Over the World"
 date: 2015-07-13 21:49:10
+crosspost_to_medium: true
 ---
 
 Maybe it's because the new Terminator movie came out, or maybe it's because of the crazy things that are coming out of Google these days (like [Google Dreaming crazy shit](http://gizmodo.com/these-are-the-incredible-day-dreams-of-artificial-neura-1712226908)) but there has been a lot of talk about Machine Learning, Deep Learning, Genetic Algorithms, and Artificial Intelligence; specifically about how we are laying out the foundation for Skynet at an increasingly rapid pace. I mean, it has gotten to the point that [Elon Musk and Stephen Hawking are warning us against destructive AI](http://www.techworld.com/news/startups/stephen-hawking-elon-musk-warn-about-rise-of-ai-3593491/). However, much like most futuristic predictions that outright non-sensical, false or vague, this whole fear about rogue AI is unfounded because it essentially misses the point that the real threat will not come from a centralized AI that controls everything (IE Skynet) but by an increasingly interwoven system of automated procedures handled by independent algorithms. 

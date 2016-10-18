@@ -10,3 +10,6 @@ github_username:  lbarberiscanoni
 
 # Build settings
 markdown: kramdown
+
+# Plugins
+gems: ["jekyll-crosspost-to-medium"]

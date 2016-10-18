@@ -2,6 +2,7 @@
 layout: post
 title: "Apple, Tesla, Google and the Conspiracy to Change Energy and Driving"
 date: 2015-05-12 14:25:10
+crosspost_to_medium: true
 ---
 
 Almost a year ago, Robin Lewis wrote on Forbes that "[Apple should think big and buy Tesla](http://www.forbes.com/sites/robinlewis/2014/05/15/buying-beats-bah-why-apple-should-think-big-and-buy-tesla/)" and everyone thought he was just crazy. A series of articles followed rejecting his claim that Apple should acquire Tesla in the same way Google acquired Nest in order to leverage the Internet of Things eco-system. But then, there was a plot-twist: 2 to be exact. First, Apple is apparently developing some [stealth project in the electric car space](http://www.huffingtonpost.com/2015/02/19/apple-electric-car_n_6715336.html), and second and most importantly: not one but TWO shareholders pressed Tim Cook about buying Tesla at the [Apple shareholder meeting](http://www.ft.com/fastft/289342) in Cupertino 2 months ago. 

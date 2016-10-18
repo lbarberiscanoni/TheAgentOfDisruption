@@ -2,6 +2,7 @@
 layout: post
 title: "Becoming an Alpha Dog on The Street"
 date: 2015-04-26 12:25:10
+crosspost_to_medium: true
 ---
 
 At Alpha-Sci were all about dogs: not bitches, but alpha dogs IE the investors that demonstrate stock-picking ability whose return outperforms the S&P500. It's been a rough past few years though for both mutual funds and even hedge-funds, as my friend Kerry Yan shows in [his article](http://theifj.com/its-an-alpha-dog-eat-dog-world/) on the Intercollegiate Finance Journal. Why is it that the overwelming majority of hedge-funds and mutual funds are getting owned by the S&P? Don't we pay them to be good? Didn't they go to Harvard???

@@ -2,6 +2,7 @@
 layout: post
 title: "Racism, Sexism, and Homophobia are not real"
 date: 2015-04-22 14:51:40
+crosspost_to_medium: true
 ---
 
 With the advent of social media and 21st century liberal culture, it seems that not one day goes by where some self-proclaimed spokesperson shouts on Facebook and Twitter or even television about "#blacklivesmatter" or "#leanin" and stuff. Gosh, just looking at the last Academy Awards every single actor seemed to stand up and speak about how racism is a problem, women are not paid enough, and gays are abused. If you truly care about a solution, spend less time shouting and more time thinking.

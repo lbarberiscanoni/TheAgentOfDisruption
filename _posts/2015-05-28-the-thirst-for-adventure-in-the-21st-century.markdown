@@ -2,6 +2,7 @@
 layout: post
 title: "The Thirst for Adventure in the 21st Century"
 date: 2015-05-28 04:27:10
+crosspost_to_medium: true
 ---
 
 When I code I don't really "watch" movies or shows, but I like to listen to them in the background to make sure I remain aware of time passing by (I tend to zone out when I code and before I realize it I spend 2 hours on the same little bug as opposed to moving on for a while in order to be more productive). Today I was listening to the Netflix Original Series "Marco Polo" (it's a great show and everyone should watch it), and it got me thinking about adventure. 
