@@ -2,6 +2,7 @@
 layout: post
 title: "Movies, Thought Experiments, and Rick & Morty"
 date: 2016-10-21 21:57:00
+crosspost_to_medium: true
 ---
 
 Being surrounded by hardcore tech bros on a regular basis, I have been very often challenged to justify the amount of time I spend watching movies. After all, even though not all say it my face, doesn't watching TV seem like a waste of time?

@@ -2,6 +2,7 @@
 layout: post
 title: "Racism and Color Blind Justice"
 date: 2015-09-30 19:38:10
+crosspost_to_medium: true
 ---
 
 “Whence all this passions towards conformity anyway? Diversity is the word...Why, if they follow this conformity business, they'll end up by forcing me, an invisible man, to become white, which is not a color but a lack of one.” 

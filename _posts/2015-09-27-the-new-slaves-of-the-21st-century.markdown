@@ -2,6 +2,7 @@
 layout: post
 title: "Student Loans and 21st Century Slavery"
 date: 2015-09-27 13:38:10
+crosspost_to_medium: true
 ---
 
 (a paper I wrote in high school for my econ class)
