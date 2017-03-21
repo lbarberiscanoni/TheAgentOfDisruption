@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Donnie Darko & Quantum Mechanics
+title: "Donnie Darko & Quantum Mechanics"
 date: 2016-11-18 14:57:00
 ---
 
